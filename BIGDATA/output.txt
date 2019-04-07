@@ -1,0 +1,13 @@
+"First"	1
+"fourth"	1
+"is"	3
+"line"	4
+"second"	1
+"the"	4
+"third"	1
+"this"	4
+2	3
+3	4
+4	8
+5	2
+6	2
